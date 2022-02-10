@@ -1,0 +1,17 @@
+{
+    "name": "chris/twig",
+    "autoload": {
+        "psr-4": {
+            "Chris\\Twig\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Christophedlr",
+            "email": "christophedlr@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2"
+    }
+}
